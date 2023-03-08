@@ -1,4 +1,4 @@
-<a href="https://ayt1da.github.io/WeatherApp" ><h1> Weather App </h1></a>
+<a href="https://ayt1da.github.io/WeatherApp/"><h1> Weather App </h1></a>
 
 This website uses React, axios and jquery.
 
